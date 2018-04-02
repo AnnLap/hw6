@@ -20,3 +20,12 @@
 
 **Задание 1.**
 
+![alt text](https://github.com/AnnLap/hw6/blob/master/question.png)
+
+Три самых частотных модификатора – difficult, important, fundamental.
+
+**Задание 2.**
+
+![alt text](https://github.com/AnnLap/hw6/blob/master/attractdraw.png)
+
+Оба глагола очень часто используются с дополнением attention. Только attract употребляется с дополнением investment. Только draw употребляется с дополнением conclusion.
