@@ -1,5 +1,7 @@
 # hw6
 
+## Google Ngram Viewer
+
 **Задание 1.**
 
 ![alt text](https://github.com/AnnLap/hw6/blob/master/duetothe.png)
@@ -10,6 +12,11 @@
 
 **Задание 3.**
 
-![alt text](https://github.com/AnnLap/hw6/blob/master/love.png)
+![alt text](https://github.com/AnnLap/hw6/blob/master/sidewalkpavement.png)
 
 Мы сравнили частотность употреблений слов sidewalk и pavement ("тротуар") для американского и британского вариантов английского. Из графика можно видеть, что слово sidewalk действительно больше характерно для американского английского (по состоянию на 2000 год). Частота употреблений слова sidewalk в обоих вариантах английского росла, начиная с середины 19-го века. При этом частота употреблений слова pavement с 1920-х годов начала падать. К 2000 году слово sidewalk сравнялось по частоте употреблений со словом pavement в британском английском.
+
+## Sketch Engine
+
+**Задание 1.**
+
